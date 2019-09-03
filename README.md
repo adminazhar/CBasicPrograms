@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="basic-programs-in-c">Basic Programs in C</h1>
 <p>Basic Programs for Engineering Students written in C language.</p>
 <p>These programs are not optimized and made for easy understanding.</p>
