@@ -6,5 +6,6 @@
 <h2 id="list-of-programs-currently-available">List of programs currently available:</h2>
 <ul>
 <li><a href="https://github.com/adminazhar/CBasicPrograms/blob/master/CalculateSumOfNaturalNumbers.c">Calculate the sum of natural numbers</a></li>
+  <li><a href="https://github.com/adminazhar/CBasicPrograms/blob/master/FibonacciSeriesInC.c">Fibonacci Program in C</a></li>
 </ul>
 
